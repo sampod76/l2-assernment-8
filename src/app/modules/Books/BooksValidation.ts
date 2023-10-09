@@ -32,4 +32,4 @@ const updateOneBook = z.object({
   }),
 });
 
-export const bookValidation = { createBookV, updateOneBook };
+export const BookValidation = { createBookV, updateOneBook };
