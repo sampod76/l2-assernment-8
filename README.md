@@ -2,6 +2,7 @@
 
 
 # --> User
+#   ---- admin---
 email:SampodNath@gmail.com
 password:112233
 
@@ -34,7 +35,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg2NzgxYWRmLTQ0NWEtNGQ1Zi05ZDNlLTc
 
 # --> Orders
 
-customer data(for testing)
+customer account
 email:spmidnos@gmail.com
 password:112233
 token:

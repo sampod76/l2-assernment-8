@@ -1,4 +1,3 @@
-
 import { z } from 'zod';
 const createBookV = z.object({
   body: z.object({
@@ -33,6 +32,4 @@ const updateOneBook = z.object({
   }),
 });
 
-export const BookValidation = { createBookV ,updateOneBook};
-
-
+export const bookValidation = { createBookV, updateOneBook };
